@@ -13,6 +13,8 @@ Help the marketing team target customers more effectively.
 
 Support the operations team in enhancing customer service.
 
+
+
 Key Questions
 
 How many different customer segments exist?
@@ -20,6 +22,8 @@ How many different customer segments exist?
 What are the characteristics of each segment?
 
 How can marketing and operations leverage these insights?
+
+
 
 Data Preprocessing
 
@@ -40,6 +44,8 @@ Elbow Method: Used to determine the optimal number of clusters.
 Silhouette Score: Assesses cluster quality.
 
 Number of Segments Identified: 3 unique customer behavior profiles.
+
+
 
 Results & Insights
 
