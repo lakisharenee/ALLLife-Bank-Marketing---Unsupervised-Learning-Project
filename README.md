@@ -1,4 +1,4 @@
-# ALLLife-Bank-Marketing---Unsupervised-Learning-Project
+# All Life Bank:  Customer Behavior Analysis for Smart Marketing
 Overview
 
 This project applies unsupervised learning techniques to segment credit card customers based on their spending patterns and interactions with the bank. By identifying distinct customer personas, the marketing team can create personalized campaigns to acquire new customers, upsell existing ones, and improve customer service strategies.
